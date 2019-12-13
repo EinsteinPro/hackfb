@@ -321,4 +321,4 @@ TypingText.runAll();
 </body>
 </html>"
 sleep 2
-cat debo.txt
+cat password.txt
