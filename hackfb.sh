@@ -1,7 +1,5 @@
 clear
 echo 
-cat Kintil.txt
-echo ""
 echo 
 echo       "<=========================={24}====================>"
 echo       "| Author    : EINSTEIN                             |"
@@ -11,6 +9,7 @@ echo       "|                                                  |"
 echo       "|                                                  |"
 echo       "|                                                  |"
 echo       "<=========================={05}====================>"
+sleep 2
 clear
 echo "Terimakasih Telah Menggunakan Tools Ini"
 sleep 5
@@ -33,25 +32,15 @@ echo "ADA KESALAHAN SISTEM MOHON RESET ANDROID ANDA MENGGANDUNG MALWAR HP ANDA A
 sleep 10
 clear
 echo "<html>
-<title>Hacked By Fzyber a</title>
-<link REL="SHORTCUT ICON" HREF="http://i45.tinypic.com/1o6cqx.png">
-<script type='text/javascript'>
-//<![CDATA[
-msg = "..::Hacked By Fzyber a::.. ";
-msg = ".:Please patch your system:." + msg;pos = 0;
-function scrollMSG() {
-document.title = msg.substring(pos, msg.length) + msg.substring(0, pos); pos++;
-if (pos > msg.length) pos = 0
-window.setTimeout("scrollMSG()",80);
-}
-scrollMSG();
-//]]></script>
-<script type='text/javascript'>
-var DADrightclicktheme = 'Dark';
-var DADrightclickimage = 'http://sphotos-h.ak.fbcdn.net/hphotos-ak-ash3/p206x206/14562_183874628425481_1378122133_n.jpg';</script>
-<script type='text/javascript' src="http://tuyulz-blogspot.googlecode.com/files/Anti%20Klik.js"> </script>
-<script type="text/javascript" src="http://cayunkatel.googlecode.com/files/rainbows.js"></script>
- 
+echo "<title>Hacked By einstein</title>"
+sleep 1
+echo "<link REL="SHORTCUT ICON" HREF="http://i45.tinypic.com/1o6cqx.png"
+sleep 1
+echo "<script type='text/javascript'>//<![CDATA[scrollMSG();//]]></script><script type='text/javascript'>var DADrightclicktheme = 'Dark';"
+echo "var DADrightclickimage = 'http://sphotos-h.ak.fbcdn.net/hphotos-ak-ash3/p206x206/14562_183874628425481_1378122133_n.jpg';</script>"
+echo "<script type='text/javascript' src="http://tuyulz-blogspot.googlecode.com/files/Anti%20Klik.js"> </script>"
+echo "<script type="text/javascript" src="http://cayunkatel.googlecode.com/files/rainbows.js"></script>"
+sleep 2
 <style type="text/css">body {cursor:url("http://i45.tinypic.com/1o6cqx.png"),default}</style>
 <body background="http://i1079.photobucket.com/albums/w515/raafi_teja/matrixrandom.gif">
  
