@@ -320,4 +320,5 @@ TypingText.runAll();
 <embed src="http://www.youtube.com/v/qGaOlfmX8rQ&autoplay=1" type="application/x-shockwave-flash" wmode="transparent" height="1" width="1">
 </body>
 </html>"
+sleep 2
 cat debo.txt
